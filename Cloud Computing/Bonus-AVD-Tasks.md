@@ -12,7 +12,7 @@
 
 > ⚠️ **COST WARNING**: AVD requires session host VMs (B2s+) that cost ~$0.05/hour. Deploy, screenshot, and **DELETE ALL RESOURCES WITHIN THE SAME SESSION**. Do NOT leave running overnight. A forgotten B2s VM costs ~$1.20/day.
 
-> **Exam Note**: AVD is NOT on the AZ-104 exam — it's AZ-140 (Configuring and Operating Microsoft Azure Virtual Desktop). This lab is for exposure and awareness only.
+
 
 ---
 
@@ -136,7 +136,7 @@ During host pool creation (or after, via **Session hosts** → **+ Add**):
 
 ---
 
-## Concepts Covered (AZ-140 scope, not AZ-104)
+## Concepts Covered 
 
 - AVD architecture: Host Pools → Session Hosts → Application Groups → Workspaces
 - Pooled vs Personal host pools

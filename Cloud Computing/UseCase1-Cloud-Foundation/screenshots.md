@@ -1,0 +1,13 @@
+<img width="938" height="416" alt="03c-nsg-data-rules" src="https://github.com/user-attachments/assets/aae59c62-f6e3-4af1-8840-1cff15dfc1f8" />
+<img width="942" height="410" alt="03b-nsg-app-rules" src="https://github.com/user-attachments/assets/7e3cb0fd-4e7f-4e13-bfdb-ec782ccedf7b" />
+<img width="935" height="416" alt="03a-nsg-web-rules" src="https://github.com/user-attachments/assets/bc1b6bdf-3fa9-4626-a16f-fde0fc35fd99" />
+<img width="941" height="414" alt="02-vnet-subnets" src="https://github.com/user-attachments/assets/b28da70a-46c7-491a-b168-bf83be53d881" />
+<img width="937" height="391" alt="02b-vnet-subnets" src="https://github.com/user-attachments/assets/9605f9ac-45b2-4690-894d-5ef39cf044b3" />
+<img width="936" height="383" alt="01-resource-group-tags" src="https://github.com/user-attachments/assets/72e3ab70-c313-4a10-af18-ca1becc8dcb8" />
+<img width="957" height="419" alt="08-cleanup-confirmation" src="https://github.com/user-attachments/assets/84225d66-850e-4651-8a96-5c9cd70a6521" />
+<img width="942" height="401" alt="07-azure-advisor" src="https://github.com/user-attachments/assets/6bc056fd-7846-4d17-a3a7-78f9818927be" />
+<img width="943" height="396" alt="06-backup-vault" src="https://github.com/user-attachments/assets/e9ddc984-25e2-47f4-a504-220263b68e72" />
+<img width="934" height="419" alt="05-storage-overview" src="https://github.com/user-attachments/assets/eb81e24c-71d6-4c95-a58e-95600a39eacb" />
+<img width="942" height="411" alt="05b-storage-overview" src="https://github.com/user-attachments/assets/c6c23e73-dd05-4d90-8253-0ea9af219bb8" />
+<img width="936" height="478" alt="04b-nginx-browser" src="https://github.com/user-attachments/assets/492bed6f-5a5f-4755-8822-8447b5b9edeb" />
+<img width="938" height="412" alt="04a-vm-overview" src="https://github.com/user-attachments/assets/8b1a3691-4cf9-4993-a8d6-8991667f75fd" />
